@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\AulasCSharp\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\AulasCSharp\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\AulasCSharp\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj",
         "projectName": "ConsoleAppAula1",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\AulasCSharp\\ConsoleAppAula1\\ConsoleAppAula1\\ConsoleAppAula1.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\ConsoleAppAula1\\ConsoleAppAula1\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\AulasCSharp\\ConsoleAppAula1\\ConsoleAppAula1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

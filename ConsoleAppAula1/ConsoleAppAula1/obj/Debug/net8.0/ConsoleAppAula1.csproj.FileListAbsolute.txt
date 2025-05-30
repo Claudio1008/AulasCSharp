@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.sourcelink.json
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net8.0\ConsoleAppAula1.exe
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net8.0\ConsoleAppAula1.deps.json
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net8.0\ConsoleAppAula1.runtimeconfig.json
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net8.0\ConsoleAppAula1.dll
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\bin\Debug\net8.0\ConsoleAppAula1.pdb
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.dll
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\refint\ConsoleAppAula1.dll
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.pdb
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ConsoleAppAula1.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\AulasCSharp\ConsoleAppAula1\ConsoleAppAula1\obj\Debug\net8.0\ref\ConsoleAppAula1.dll

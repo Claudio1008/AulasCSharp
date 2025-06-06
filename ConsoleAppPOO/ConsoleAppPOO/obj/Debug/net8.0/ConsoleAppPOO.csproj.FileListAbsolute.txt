@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.exe
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.deps.json
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.runtimeconfig.json
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.dll
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.pdb
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.dll
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\refint\ConsoleAppPOO.dll
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.pdb
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ref\ConsoleAppPOO.dll
